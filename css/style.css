@@ -12,10 +12,16 @@ body {
 
 .main {
     margin: 20px;
-    width: 80vw;
     display: flex;
+    justify-content: center;
+
+}
+
+.head_contents {
+    width: 80%;
+    display: flex;
+    justify-content: center;
     flex-direction: column;
- 
 }
 
 h1 {
